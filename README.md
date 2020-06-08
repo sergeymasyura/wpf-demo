@@ -5,13 +5,11 @@ Programming Assignment
 
 1. Source code, solution and project files, insctructions to compile:
 
-Source code is in the delivery\src\ColorMixer.zip archive.
-Also the actual mercurial source code repository used for the development is attached.
-The app is the WPF application with .Net 4.5.
-To compile unzip the sources to the separate folder, open the ColorMixer.sln in the Visual Studio 2013.
+Source code is in the .\src folder.
+The app is the WPF application with .Net 4.7.
 
 2. Compiled executable:
-delivery\exe\ folder contains application executable. Run the ColorMixer.exe.
+.\exe folder contains application executable. Run the ColorMixer.exe.
 
 3. List of 3rd party dependencies:
 Xceed.Wpf.AvalonDock - docking component.
@@ -20,7 +18,7 @@ Xceed.Wpf.Toolkit - PropertyGrid, Color Editor.
 Northwoods.GoWPF - Diagram editor.
 
 4. Screenshots of the application:
-The screenshots are located in delivery\screenshots\ folder.
+The screenshots are located in the .\screenshots folder.
 
 5. Brief description of the application:
 The application is intended to mix colors and re-use results in the next operations.
